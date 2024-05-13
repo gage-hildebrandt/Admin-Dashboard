@@ -5,7 +5,9 @@
 }
 
 .sidebar {
-    display: grid;
+    display: flex;
     background-color: lightblue;
-    grid-template-columns: 12px;
+    flex-direction: column;
+    width: 220px;
+    height: 900px;
 }
