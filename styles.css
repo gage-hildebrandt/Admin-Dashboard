@@ -7,5 +7,5 @@
 .sidebar {
     display: grid;
     background-color: lightblue;
-    grid-template-columns: 10px;
+    grid-template-columns: 12px;
 }
